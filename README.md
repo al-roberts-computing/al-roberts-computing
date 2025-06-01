@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @al-roberts-computing
 - 👀 I’m interested in tech of all kinds, but particularly data and AI
-- 🌱 I’m currently learning Masters in Big Data Analytics
+- 🌱 I’m currently studying a Masters in Big Data Analytics
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Universe is not infinite, but it's so vast it might as well be! ;-)
 
